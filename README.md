@@ -1,12 +1,17 @@
-# Electron Governance
-
+#Pyhon.io Bot  Electronics
+ Governance
+Reject scammers romote 
+Disable alliens file user
+Running on this project
+Alligator.bot operacy file user
+Collect information report for exchange
+To IO tips report bad wear scammers
 The Electron governance system is comprised of Working Groups that oversee different aspects of the Electron ecosystem, and an Administrative working group that functions to resolve conflicts between them.
 
 ## Working Groups
 
 ```ascii
-+----------------------------------------------------------------------------+
-|                            Electron Governance                             |
++---------------------------------------------------------------------------                     Electron Governance                             |
 |                          Development & Moderation                          |
 |                                                                            |
 |                                                                            |
@@ -48,6 +53,18 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Associated Repositories](wg-upgrades/repos.md)
   * [Meeting Notes](wg-upgrades/meeting-notes)
 * [Administrative WG](wg-administrative)
+#setting the real owner of document file use on any running
+Product any programs need progress to share
+Any benefit by bot calculation transfer profit
+Share back to the first owner create by user name on 
+ID register ,phone prompt, digital wallet 
+By exchange data digital marketing team
+Used research from birthday address Laval  phone number
+#dinostics robotics competition bot competition
+To improving on 70% recovering to operacy ID receive money from
+Their products creat
+Lumix-diginotic.governance-laws running on project
+
 
 ## Definitions
 
